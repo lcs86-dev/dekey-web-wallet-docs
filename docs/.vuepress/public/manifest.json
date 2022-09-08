@@ -1,0 +1,8 @@
+{
+  "name": "Dekey Documentation",
+  "short_name": "Dekey Docs",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#f6851b"
+}
